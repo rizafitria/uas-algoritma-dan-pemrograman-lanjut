@@ -16,4 +16,15 @@ Program ini adalah aplikasi buku nilai digital. Tugasnya membantu kamu mencatat 
 3. Gunakan: Pilih angka 1 untuk isi data, lalu angka 2 untuk melihat hasilnya.
 
 ## Screenshoot Program
+![alt text](https://github.com/rizafitria/basic-template-ktc/blob/main/images/Screenshot%202026-01-07%20115926.png?raw=true)
 ![alt text](https://github.com/rizafitria/basic-template-ktc/blob/main/images/Screenshot%202026-01-07%20115650.png?raw=true)
+![alt text](https://github.com/rizafitria/basic-template-ktc/blob/main/images/Screenshot%202026-01-07%20115724.png?raw=true)
+![alt text](https://github.com/rizafitria/basic-template-ktc/blob/main/images/Screenshot%202026-01-07%20115805.png?raw=true)
+![alt text](https://github.com/rizafitria/basic-template-ktc/blob/main/images/Screenshot%202026-01-07%20115826.png?raw=true)
+![alt text](https://github.com/rizafitria/basic-template-ktc/blob/main/images/Screenshot%202026-01-07%20115843.png?raw=true)
+![alt text](https://github.com/rizafitria/basic-template-ktc/blob/main/images/Screenshot%202026-01-07%20115858.png?raw=true)
+![alt text](https://github.com/rizafitria/basic-template-ktc/blob/main/images/Screenshot%202026-01-07%20115915.png?raw=true)
+
+
+
+
