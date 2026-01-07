@@ -16,4 +16,4 @@ Program ini adalah aplikasi buku nilai digital. Tugasnya membantu kamu mencatat 
 3. Gunakan: Pilih angka 1 untuk isi data, lalu angka 2 untuk melihat hasilnya.
 
 ## Screenshoot Program
-images/Screenshot 2026-01-07 115639.png
+(images/Screenshot 2026-01-07 115639.png)
